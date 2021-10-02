@@ -1,1 +1,7 @@
-Screenshot:  ![Screenshot (8)](https://user-images.githubusercontent.com/90026592/135696629-4a20e336-ce3d-42d5-ad16-0e4c68d3afda.png)
+Screenshot:                     ![Screenshot (8)](https://user-images.githubusercontent.com/90026592/135696629-4a20e336-ce3d-42d5-ad16-0e4c68d3afda.png)
+When learning rate is 0.1:      ![Screenshot (9)](https://user-images.githubusercontent.com/90026592/135696987-defbb294-4004-4a2b-8854-767f840ac2c9.png)
+When the learning rate is 0.2:  ![Screenshot (10)](https://user-images.githubusercontent.com/90026592/135697012-25f981ac-5b31-46b7-8dc5-75d45b56c935.png)
+When the learning rate is 0.5:  ![Screenshot (11)](https://user-images.githubusercontent.com/90026592/135697071-752f5259-30eb-4f16-b16a-20927a0a3b65.png)
+When the learning rate is 0.8:  ![Screenshot (12)](https://user-images.githubusercontent.com/90026592/135697085-a8761e9e-1b33-4148-a82b-0d5a18364612.png)
+When the learning rate is 1.0:  ![Screenshot (13)](https://user-images.githubusercontent.com/90026592/135697156-9147209e-05bc-4844-8411-4c764d7a693b.png)
+When the learning rate is 2.0:  ![Screenshot (8)](https://user-images.githubusercontent.com/90026592/135697181-4e63acc8-1f25-4e8f-a866-3dbc2e1494b8.png)
