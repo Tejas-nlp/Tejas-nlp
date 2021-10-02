@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Tejas-nlp/Tejas-nlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Screenshot:                     ![Screenshot (8)](https://user-images.githubusercontent.com/90026592/135696629-4a20e336-ce3d-42d5-ad16-0e4c68d3afda.png)
+When learning rate is 0.1:      ![Screenshot (9)](https://user-images.githubusercontent.com/90026592/135696987-defbb294-4004-4a2b-8854-767f840ac2c9.png)
+When the learning rate is 0.2:  ![Screenshot (10)](https://user-images.githubusercontent.com/90026592/135697012-25f981ac-5b31-46b7-8dc5-75d45b56c935.png)
+When the learning rate is 0.5:  ![Screenshot (11)](https://user-images.githubusercontent.com/90026592/135697071-752f5259-30eb-4f16-b16a-20927a0a3b65.png)
+When the learning rate is 0.8:  ![Screenshot (12)](https://user-images.githubusercontent.com/90026592/135697085-a8761e9e-1b33-4148-a82b-0d5a18364612.png)
+When the learning rate is 1.0:  ![Screenshot (13)](https://user-images.githubusercontent.com/90026592/135697156-9147209e-05bc-4844-8411-4c764d7a693b.png)
+When the learning rate is 2.0:  ![Screenshot (8)](https://user-images.githubusercontent.com/90026592/135697181-4e63acc8-1f25-4e8f-a866-3dbc2e1494b8.png)
+Major steps envolving are:
+    Feedforward Propagation: It consists of a number of simple neuron-like processing units, organized in layers and every unit in a layer is connected with all the units in the previous layer but they are not inter connected amomg them in the same layer. These connections are not all equal, as each connection may have a different weight. The weights on these connections encode the knowledge of a network and the propagation takes places in a forward manner. The propagation takes place from input to the output(i.e from right to left).
+    Backward Propagation: It's oppsite to forward propagation.It's the process where fine-tuning the weights of a neural net based on the error rate obtained in the previous epoch. Proper tuning of the weights ensures lower error rates.
+    Weight Initialization: The nodes in neural networks are composed of parameters referred to as weights used to calculate a weighted sum of the inputs.
+Neural network models are fit using an optimization algorithm called stochastic gradient descent that incrementally changes the network weights to minimize a loss function, hopefully resulting in a set of weights for the mode that is capable of making useful predictions. This optimization algorithm requires a starting point in the space of possible weight values from which to begin the optimization process. Weight initialization is a procedure to set the weights of a neural network to small random values that define the starting point for the optimization
